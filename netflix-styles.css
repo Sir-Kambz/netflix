@@ -1,3 +1,38 @@
 .navbar {
-  background-color:rosybrown;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 3rem;
+}
+.navbar span {
+  font-style: oblique;
+  color: red;
+  font-size: larger;
+}
+.navbar button {
+  background-color: red;
+  color: white;
+  padding: 1rem 1rem;
+}
+.text {
+  color: antiquewhite;
+  text-align: center;
+  padding: 8rem;
+}
+body {
+  background-color: black;
+}
+.bckgrd-image {
+  background-image: url("ZW-en-20221228-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  width: auto;
+  height: auto;
+  opacity: 1;
+}
+.textP2 {
+  color: antiquewhite;
+  text-align: left;
+  object-fit: right;
+  background-image: url("tv.png");
+  width: auto;
+  height: auto;
 }
