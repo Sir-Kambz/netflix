@@ -36,3 +36,21 @@ body {
   width: auto;
   height: auto;
 }
+.first-image {
+  background-image: url("mobile-0819.jpg");
+  object-fit: right;
+  width: auto;
+  height: auto;
+}
+.textP3{color: whitesmoke;}
+.textP4{color:whitesmoke ;}
+
+.second-image {
+  background-image: url("AAAABfpnX3dbgjZ-Je8Ax3xn0kXehZm_5L6-xe6YSTq_ucht9TI5jwDMqusWZKNYT8DfGudD0_wWVVTFLiN2_kaQJumz2iivUWbIbAtF.png");
+  border: 3rem 2rem;
+  border-radius: 2rem;
+  padding: 1rem;
+  width: fit-content;
+  height: auto;
+  object-fit: right;
+}
